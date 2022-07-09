@@ -14,7 +14,6 @@ createActionItem('./assets/img/actions/animewoman.jpg','Anime Woman','$ 100,00')
 createActionItem('./assets/img/actions/dragonballpersonagem.jpg','Goku','$ 150,00')
 createActionItem('./assets/img/actions/starwarspersonagem.jpg','Baby Yoda','$ 200,00')
 
-
 function createPaintingItem(imagemItem, nomeItem, valorItem){
     let item = {
         imagem: imagemItem,
